@@ -31,4 +31,4 @@
   There is a README.md file in each exercise folder.
     
   ## Pending delivery
-  12-10-2025 > Pending to complete levels 2 and 3, which I will submit in the coming days.
+  19-10-2025 > Pending to complete levels 2 and 3, which I will submit in the coming days.
