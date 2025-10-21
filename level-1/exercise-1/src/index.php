@@ -1,7 +1,7 @@
 <?php
 
-require_once 'Canary.php';
-require_once 'Parrot.php';
+require_once 'classes/Canary.php';
+require_once 'classes/Parrot.php';
 
 $animals = [ new Canary("Yellow"), new Parrot("Philip") ];
 

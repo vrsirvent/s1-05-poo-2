@@ -7,13 +7,14 @@ We need to create a data type that represents an animal. Animals have a name and
 Create at least two animals. 
 
 /exercise
-      ├── scr/               # Source code
-      |    │
-      |    ├── index.php     # PHP file with main script
-      |    ├── animal.php    # PHP file with abstract class Animal implements Speaks (interface)
-      |    ├── canary.php    # PHP file with class Canary extends Animal (Inheritance)
-      |    └── parrot.php    # PHP file with class Parrot extends Animal (Inheritance)
-      |
-      └── README.md     # Exercise documentation
+    ├── scr/                        # Source code
+    |     ├── classes/ 
+    |     │       ├── animal.php    # PHP file with abstract class Animal implements Speaks (interface)
+    |     |       ├── canary.php    # PHP file with class Canary extends Animal
+    |     |       └── parrot.php    # PHP file with class Parrot extends Animal
+    |     |
+    |     └── index.php             # PHP file with main script
+    |
+    └── README.md                   # Exercise documentation     
 
 
