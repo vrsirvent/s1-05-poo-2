@@ -1,7 +1,7 @@
 <?php
 
-require_once 'Triangle.php';
-require_once 'Rectangle.php';
+require_once 'classes/Triangle.php';
+require_once 'classes/Rectangle.php';
 
 $triangle = new Triangle(24, 5);
 echo PHP_EOL . "Triangle area: " . $triangle->calculateArea() . PHP_EOL;
